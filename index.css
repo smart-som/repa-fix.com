@@ -1,0 +1,64 @@
+.navbar-brand{
+    padding: 0 50px ;
+    font-weight: bold;
+    line-height: 50px;
+    font-size: 25px;
+}
+
+.navbar{
+    background-color: #ffff;
+}
+
+/* LINK STYLE */
+.nav-link {
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0 10px;
+    padding: 3px;
+    border-radius: 3px;
+    color: rgb(13, 110, 253);
+    text-align: cente;
+}
+
+.auto-nav{
+    height: 550px;
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+}
+
+
+#navbarCollapse{
+    text-align: center;
+}
+
+.comingsoon{
+    background: -webkit-linear-gradient(rgba(48, 68, 248, 0.637), rgba(48, 68, 248, 0.686)), url("comingsoon-picture.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+
+.faq-section{
+    background-color: #3c64f51a;
+}
+
+.contact-section{
+    background-color: #3c64f51a;   
+}
+
+.foot{
+    background-color: #4d74ff0c;
+}
+
+.second-section{
+    background-color: #3c64f51a;
+}
+
+
+.third-section{
+    background-color: #3c64f51a;   
+
+}
